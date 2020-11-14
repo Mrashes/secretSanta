@@ -1,3 +1,5 @@
+@import '~bootstrap/scss/bootstrap.scss';
+
 .App {
   text-align: center;
 }
@@ -35,4 +37,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.santa-wrapper {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.content {
+  background-color: white;
 }
